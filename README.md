@@ -1,7 +1,5 @@
 # Healthcare Data Analysis and Patient Insights
 
----
-
 ## Project Overview
 
 This project analyzes a **synthetic healthcare dataset** to identify meaningful patterns related to patient demographics, symptoms, department workloads, vital signs, symptom severity, and chronic conditions.
