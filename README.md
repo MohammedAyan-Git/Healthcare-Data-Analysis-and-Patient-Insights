@@ -1,8 +1,5 @@
 # Healthcare Data Analysis and Patient Insights
 
-**IBM SkillsBuild Data Analytics with AI Internship 2026**
-**Student:** Mohammed Ayan
-
 ---
 
 ## Project Overview
@@ -416,6 +413,4 @@ The final ML experiment, using vital signs and demographic features without `sym
 Overall, the project demonstrates that effective data analytics is not only about obtaining high model accuracy, but also about understanding the data, validating assumptions, identifying limitations, and communicating findings honestly.
 
 ---
-
-**IBM SkillsBuild Data Analytics with AI Internship 2026**
-**Student: Mohammed Ayan**
+**Author: Mohammed Ayan**
